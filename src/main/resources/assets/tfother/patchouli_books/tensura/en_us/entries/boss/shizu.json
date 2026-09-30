@@ -1,0 +1,16 @@
+{
+  "name": "Shizu et Ifrit",
+  "icon": "minecraft:blaze_powder",
+  "category": "tfother:boss",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Boss de fin de milieu de partie. La 1re phase est simple ; en « mourant », Shizu libère $(l)Ifrit$(), très résistant aux attaques physiques."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Utilise des compétences qui contournent ou dégradent les résistances, ou de la magie.$(br2)Butin : drops d'Ifrit, puis Shizu donne l'$(l)Anti-Magic Mask$() et son schéma."
+    }
+  ]
+}

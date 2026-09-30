@@ -1,0 +1,16 @@
+{
+  "name": "Charybdis",
+  "icon": "tensura:charybdis_core",
+  "category": "tfother:boss",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Trouve un $(l)Charybdis Core$() dans une Charybdis Cave. Pose-le et tue des monstres autour pour le charger en EP, puis clic droit pour invoquer Charybdis."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Astuce : invoque-la dans une grotte pour qu'elle ne s'envole pas, ou utilise une attaque à distance puissante.$(br2)Butin : schéma de Charybdis Scalemail, écailles et viande de Charybdis."
+    }
+  ]
+}

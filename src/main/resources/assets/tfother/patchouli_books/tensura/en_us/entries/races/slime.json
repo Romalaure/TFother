@@ -1,0 +1,20 @@
+{
+  "name": "Slime",
+  "icon": "minecraft:slime_ball",
+  "category": "tfother:races",
+  "sortnum": 11,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Race spectrale sans ambition, passive mais impitoyable une fois provoquée. La race de Rimuru !$(br2)$(li)$(l)Difficulté$() : Extrême$(li)$(l)PV$() : 10$(li)$(l)MP$() : 200 - 500$(li)$(l)AP$() : 200 - 500$(li)$(l)Alignement$() : Majin"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Super saut chargé. Réduit de 50 % les dégâts physiques subis (ne se cumule pas avec les résistances physiques)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Évolution$()$(li)Slime de Métal : consommer 100 Magic Ore avec Absorb & Dissolve$(li)Slime Démon : s'éveiller (Vrai Seigneur Démon / Vrai Héros)"
+    }
+  ]
+}

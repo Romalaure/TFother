@@ -1,0 +1,20 @@
+{
+  "name": "Minerai magique",
+  "icon": "tensura:magic_ore",
+  "category": "tfother:debuter",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Après le diamant, l'étape suivante est le $(l)Magic Ore$(). Il se trouve entre les couches $(l)-25 et -31$() (le mieux : -29)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Il faut une $(l)pioche en netherite$() pour le miner (ou une pioche en os de dragon avec Ice and Fire). Fortune est vivement conseillé.$(br2)Prévois environ 19 obsidiennes : 10 pour le portail du Nether, 4 pour la table d'enchantement et 5 pour le $(l)Kiln$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Fonds le minerai magique dans le Kiln pour obtenir des lingots de $(l)Low Magisteel$(), la base de l'équipement de milieu de jeu."
+    }
+  ]
+}

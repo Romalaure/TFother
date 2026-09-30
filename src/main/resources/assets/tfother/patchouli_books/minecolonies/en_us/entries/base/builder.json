@@ -1,0 +1,20 @@
+{
+  "name": "Cabane du Bâtisseur",
+  "icon": "minecolonies:blockhutbuilder",
+  "category": "tfother:base",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le Bâtisseur doit d'abord construire sa propre cabane. Ensuite il construit tout : bâtiments, décorations, tes propres schémas."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Il ne peut construire ou améliorer un bâtiment $(l)qu'au niveau de sa propre cabane$() : améliore-la en premier."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Il demande les matériaux au fur et à mesure. Onglet « Required Resources » : ce qui manque est en rouge. S'il semble bloqué, rappelle-le (Recall) et vérifie la liste."
+    }
+  ]
+}

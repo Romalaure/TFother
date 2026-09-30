@@ -1,0 +1,24 @@
+{
+  "name": "Aperçu des races",
+  "icon": "minecraft:book",
+  "category": "tfother:races",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Chaque race a ses stats de départ (PV, MP, AP), une difficulté et une ligne d'évolutions. Les races marquées $(l)Majin$() gagnent surtout des magicules."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Lignées d'évolution$()$(li)Humain → Éclairé → Saint → Divin$(li)Gobelin → Hobgobelin → ..."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "→ Oni Divin$(li)Homme-lézard → Dragonewt → Vrai Dragonewt → Dragon Divin$(li)Orc → Orc Supérieur → Orc Lord → Orc Disaster$(li)Slime → Slime de Métal → Slime Démon → Dieu Slime$(li)Goule → Vampire → ..."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "→ Vampire Divin$(li)Démon Mineur → Supérieur → Archi → Seigneur Démon$(br2)Beaucoup d'évolutions peuvent aussi être obtenues pendant un $(l)Harvest Festival$() (voir Éveils)."
+    }
+  ]
+}

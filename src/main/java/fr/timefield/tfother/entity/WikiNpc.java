@@ -1,10 +1,10 @@
 package fr.timefield.tfother.entity;
 
-import fr.timefield.tfother.client.ClientHooks;
+import fr.timefield.tfother.TFother;
 import net.minecraft.ChatFormatting;
-import net.minecraft.network.chat.ClickEvent;
 import net.minecraft.network.chat.Component;
-import net.minecraft.network.chat.HoverEvent;
+import net.minecraft.resources.ResourceLocation;
+import net.minecraft.server.level.ServerPlayer;
 import net.minecraft.world.InteractionHand;
 import net.minecraft.world.InteractionResult;
 import net.minecraft.world.entity.Entity;
@@ -16,15 +16,16 @@ import net.minecraft.world.entity.ai.goal.LookAtPlayerGoal;
 import net.minecraft.world.entity.ai.goal.RandomLookAroundGoal;
 import net.minecraft.world.entity.player.Player;
 import net.minecraft.world.level.Level;
+import vazkii.patchouli.api.PatchouliAPI;
 
-/** Stationary, invulnerable NPC that opens a wiki when talked to. */
+/** Stationary, invulnerable NPC that opens an in-game Patchouli wiki when talked to. */
 public abstract class WikiNpc extends PathfinderMob {
-    private final String wikiUrl;
+    private final ResourceLocation book;
     private final String greetKey;
 
-    protected WikiNpc(EntityType<? extends WikiNpc> type, Level level, String wikiUrl, String greetKey, ChatFormatting nameColor) {
+    protected WikiNpc(EntityType<? extends WikiNpc> type, Level level, String bookId, String greetKey, ChatFormatting nameColor) {
         super(type, level);
-        this.wikiUrl = wikiUrl;
+        this.book = ResourceLocation.fromNamespaceAndPath(TFother.MODID, bookId);
         this.greetKey = greetKey;
         setInvulnerable(true);
         setPersistenceRequired();
@@ -50,17 +51,10 @@ public abstract class WikiNpc extends PathfinderMob {
         if (hand != InteractionHand.MAIN_HAND) {
             return InteractionResult.PASS;
         }
-        if (level().isClientSide) {
-            ClientHooks.openWiki(wikiUrl);
-        } else {
-            Component link = Component.literal(wikiUrl).withStyle(style -> style
-                    .withColor(ChatFormatting.BLUE)
-                    .withUnderlined(true)
-                    .withClickEvent(new ClickEvent(ClickEvent.Action.OPEN_URL, wikiUrl))
-                    .withHoverEvent(new HoverEvent(HoverEvent.Action.SHOW_TEXT, Component.literal(wikiUrl))));
-            player.sendSystemMessage(Component.literal("<").append(getDisplayName()).append("> ")
-                    .append(Component.translatable(greetKey).withStyle(ChatFormatting.WHITE))
-                    .append(" ").append(link));
+        if (player instanceof ServerPlayer serverPlayer) {
+            serverPlayer.sendSystemMessage(Component.literal("<").append(getDisplayName()).append("> ")
+                    .append(Component.translatable(greetKey).withStyle(ChatFormatting.WHITE)));
+            PatchouliAPI.get().openBookGUI(serverPlayer, book);
         }
         return InteractionResult.sidedSuccess(level().isClientSide);
     }

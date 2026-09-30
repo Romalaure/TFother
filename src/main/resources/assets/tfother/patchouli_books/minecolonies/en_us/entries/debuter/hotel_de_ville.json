@@ -1,0 +1,20 @@
+{
+  "name": "Placer l'Hôtel de ville",
+  "icon": "minecolonies:blockhuttownhall",
+  "category": "tfother:debuter",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Choisis bien l'emplacement : il faut une zone assez plate d'au moins $(l)8x8 chunks$(). Le chunk de l'Hôtel de ville devient le $(l)centre définitif$() de la colonie (rayon protégé de 4 chunks)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Rassemble avant : bois, pierre, charbon, fer, ficelle, cuir, laine, pousses, fleurs et nourriture."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Place le bloc avec le Build Tool (aperçu 3D, flèches pour déplacer, + et - pour la hauteur), valide, puis fais clic droit dessus et signe le $(l)Settlement Covenant$(). Tes 4 premiers citoyens arrivent peu après."
+    }
+  ]
+}

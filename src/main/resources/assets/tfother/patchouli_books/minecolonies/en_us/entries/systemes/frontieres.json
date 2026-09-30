@@ -1,0 +1,16 @@
+{
+  "name": "Territoire et protection",
+  "icon": "minecolonies:blockhuttownhall",
+  "category": "tfother:systemes",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La colonie démarre avec un rayon de $(l)4 chunks$() autour de l'Hôtel de ville. Construire des bâtiments l'agrandit (max 20 chunks). Les tours de garde agrandissent le plus."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Dans le territoire, seul le propriétaire peut casser ou poser des blocs (ajoute des joueurs dans les permissions de l'Hôtel de ville). Les explosions y sont désactivées."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Plantation et Compost",
+  "icon": "minecolonies:blockhutplantation",
+  "category": "tfother:production",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le $(l)Planteur$() cultive canne à sucre, cactus, bambou, cacao, lianes, algues, baies lumineuses, plantes du Nether... sur des champs construits par le Bâtisseur."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Le $(l)Composteur$() transforme les déchets organiques en compost ou en terre dans des Compost Barrels (1 par niveau)."
+    }
+  ]
+}

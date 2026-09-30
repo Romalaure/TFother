@@ -1,0 +1,28 @@
+{
+  "name": "Les étapes clés",
+  "icon": "minecolonies:blockhutbuilder",
+  "category": "tfother:debuter",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)1. Cabane du Bâtisseur$()$(br)Rien ne se construit sans Bâtisseur. Pose la cabane, puis dans son menu : Build Options → Build Building. Monte-la vite au niveau 2."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)2. Logement$()$(br)Construis la $(l)Taverne$() (4 lits, attire des visiteurs), puis des $(l)Résidences$() pour augmenter la population.$(br2)$(l)3. Nourriture$()$(br)Le $(l)Pêcheur$() est le plus rapide au début. Ajoute un $(l)Réfectoire$() pour nourrir tout le monde."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)4. Bois$()$(br)La cabane du $(l)Forestier$() fournit le bois.$(br2)$(l)5. Mine$()$(br)La $(l)Mine$() fournit pierre et minerais, essentiels aux améliorations."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)6. Logistique$()$(br)$(l)Entrepôt$() + $(l)Coursier$() : les objets circulent tout seuls entre les bâtiments."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)7. Développement$()$(li)Tour de garde contre les raids$(li)Hôpital contre les maladies$(li)Scierie pour l'artisanat$(li)Un seul ouvrier par cabane : multiplie-les$(li)Améliore au niveau 5 pour travailler plus vite"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Quêtes",
+  "icon": "minecraft:writable_book",
+  "category": "tfother:systemes",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Les citoyens te proposent des $(l)quêtes$() : dialogues, livraisons, constructions, blocs à casser ou poser, monstres à tuer, recherches..."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Certaines forment une chaîne (le tutoriel, que tu peux passer). Les récompenses sont des objets.$(br2)Le $(l)Quest Log$() (lié à la colonie par clic droit sur une cabane) suit tes quêtes."
+    }
+  ]
+}

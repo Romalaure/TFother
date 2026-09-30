@@ -3,11 +3,19 @@ plugins {
     id 'net.neoforged.moddev' version '2.0.78'
 }
 
-version = '1.0.1'
+version = '1.1.0'
 group = 'fr.timefield.tfother'
 base { archivesName = 'TFother' }
 
 java.toolchain.languageVersion = JavaLanguageVersion.of(21)
+
+repositories {
+    maven { url = 'https://maven.blamejared.com' }
+}
+
+dependencies {
+    compileOnly 'vazkii.patchouli:Patchouli:1.21.1-93-NEOFORGE:api'
+}
 
 neoForge {
     version = '21.1.172'

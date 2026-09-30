@@ -1,0 +1,16 @@
+{
+  "name": "Outils du maire",
+  "icon": "minecolonies:resourcescroll",
+  "category": "tfother:systemes",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Clipboard$()$(br)Accroupi + clic droit sur l'Hôtel de ville pour la lier. Montre toutes les demandes non traitées par les coursiers."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Resource Scroll$()$(br)Accroupi + clic droit sur une cabane de Bâtisseur. Montre les matériaux manquants (rouge : personne ne l'a, vert : tu l'as).$(br2)$(l)Builder's Goggles$()$(br)Portées sur la tête, elles montrent un aperçu fantôme des constructions en cours."
+    }
+  ]
+}

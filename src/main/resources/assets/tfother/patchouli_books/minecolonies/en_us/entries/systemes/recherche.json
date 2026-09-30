@@ -1,0 +1,16 @@
+{
+  "name": "Recherche",
+  "icon": "minecolonies:blockhutuniversity",
+  "category": "tfother:systemes",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "À l'$(l)Université$(), les Chercheurs débloquent des améliorations. 4 arbres : Civil, Combat, Technologie et Déblocages."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Chaque colonne d'un arbre demande l'Université au niveau correspondant (colonne 3 = niveau 3). Les coûts sont pris dans ton inventaire.$(br2)La recherche se fait en temps réel ; dès le niveau 3, une partie avance même hors ligne. 1 chercheur par niveau."
+    }
+  ]
+}

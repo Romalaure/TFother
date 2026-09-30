@@ -1,0 +1,16 @@
+{
+  "name": "Homme-bête",
+  "icon": "minecraft:bone",
+  "category": "tfother:races",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Peut passer librement de sa forme animale à une forme humaine. Physique et régénération hors normes.$(br2)$(li)$(l)Difficulté$() : Facile$(li)$(l)PV$() : 22$(li)$(l)MP$() : 300 - 600$(li)$(l)AP$() : 1 500 - 2 500$(li)$(l)Alignement$() : Aucun"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Transformation bestiale.$(br2)$(l)Évolution$()$(li)Seigneur Bête : 100 000 EP ou Harvest Festival"
+    }
+  ]
+}

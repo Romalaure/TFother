@@ -1,0 +1,16 @@
+{
+  "name": "Elfe",
+  "icon": "minecraft:oak_sapling",
+  "category": "tfother:races",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Race sprite descendant des élémentaires du vent, très douée pour la magie élémentaire.$(br2)$(li)$(l)Difficulté$() : Difficile$(li)$(l)PV$() : 20$(li)$(l)MP$() : 320 - 600$(li)$(l)AP$() : 600 - 800$(li)$(l)Alignement$() : Aucun"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Aucune. Plus de chances d'obtenir un esprit du Vent.$(br2)$(l)Évolution$()$(li)Elfe Éclairé : 100 000 EP ou Harvest Festival"
+    }
+  ]
+}

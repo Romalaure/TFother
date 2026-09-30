@@ -1,0 +1,20 @@
+{
+  "name": "Premiers pas",
+  "icon": "minecraft:compass",
+  "category": "tfother:debuter",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "À ta première connexion, un menu te propose de choisir ta $(l)race$(). Chaque race rend la progression plus ou moins difficile (voir la catégorie Races)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Tu reçois aussi une $(l)compétence unique$() (Unique Skill) au hasard dès le départ.$(br2)Pour devenir plus fort, il faut tuer des monstres : chaque kill te donne de l'$(l)EP$() et augmente tes magicules maximum. Plus le monstre est fort, plus tu gagnes d'EP."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Ouvre ton menu de personnage avec la touche $(l)B$() pour voir tes stats, ta race et tes compétences."
+    }
+  ]
+}

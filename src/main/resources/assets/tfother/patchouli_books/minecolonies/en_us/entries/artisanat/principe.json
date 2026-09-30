@@ -1,0 +1,16 @@
+{
+  "name": "Fonctionnement",
+  "icon": "minecolonies:blockhutsawmill",
+  "category": "tfother:artisanat",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Les artisans ne fabriquent que sur $(l)demande$() d'un autre ouvrier et s'ils ont les matériaux.$(br2)Il faut leur $(l)apprendre les recettes$(). Nombre de recettes selon le niveau :"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)Niv. 1 : 10$(li)Niv. 2 : 20$(li)Niv. 3 : 40$(li)Niv. 4 : 80$(li)Niv. 5 : 160"
+    }
+  ]
+}

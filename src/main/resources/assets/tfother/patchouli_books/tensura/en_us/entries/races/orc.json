@@ -1,0 +1,16 @@
+{
+  "name": "Orc",
+  "icon": "minecraft:porkchop",
+  "category": "tfother:races",
+  "sortnum": 10,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Hommes-bêtes ayant perdu la capacité de changer de forme. Plus forts que la moyenne.$(br2)$(li)$(l)Difficulté$() : Intermédiaire$(li)$(l)PV$() : 28$(li)$(l)MP$() : 50 - 100$(li)$(l)AP$() : 400 - 600$(li)$(l)Alignement$() : Aucun"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Aucune.$(br2)$(l)Évolution$()$(li)Orc Supérieur : 5 000 EP ou Harvest Festival"
+    }
+  ]
+}

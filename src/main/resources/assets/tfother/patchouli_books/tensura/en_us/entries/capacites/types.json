@@ -1,0 +1,20 @@
+{
+  "name": "Types de compétences",
+  "icon": "minecraft:writable_book",
+  "category": "tfother:capacites",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Les compétences sont des formules gravées dans l'âme. Il en existe plusieurs rangs :"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Intrinsèques$() : liées à ta race$(li)$(l)Common$() : coût 100 MP max$(li)$(l)Extra$() : coût 1 000 MP max$(li)$(l)Unique$() : très puissantes (Great Sage, Predator...)$(li)$(l)Ultimate$() : le sommet$(li)$(l)Résistances$() : deviennent des Nullifications à l'éveil"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Compétences utiles$()$(li)Magic Sense : vision nocturne et voir les monstres à travers les murs$(li)Corrosion : manger 100 chairs putréfiées$(li)Poison : manger 100 yeux d'araignée$(li)Sage : maîtriser 20 magies/Battlewills"
+    }
+  ]
+}

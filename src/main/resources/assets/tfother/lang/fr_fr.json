@@ -3,6 +3,6 @@
   "entity.tfother.bob": "Bob",
   "item.tfother.slime_spawn_egg": "Œuf d'apparition de PNJ Slime",
   "item.tfother.bob_spawn_egg": "Œuf d'apparition de PNJ Bob",
-  "message.tfother.slime.greet": "Salut ! Voici le wiki officiel de Tensura :",
-  "message.tfother.bob.greet": "Bonjour, moi c'est Bob ! Tu veux fonder ta colonie ? Tout est expliqué sur le wiki officiel de MineColonies :"
+  "message.tfother.slime.greet": "Salut ! Tiens, voici tout ce que je sais sur ce monde.",
+  "message.tfother.bob.greet": "Bonjour, moi c'est Bob ! Tu veux fonder ta colonie ? Voici mon guide de MineColonies."
 }

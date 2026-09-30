@@ -1,0 +1,24 @@
+{
+  "name": "Rangs et éléments",
+  "icon": "minecraft:glow_berries",
+  "category": "tfother:esprits",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Lesser$() : la manipulation de l'élément + un sort$(li)$(l)Medium$() : plusieurs sorts, invocable$(li)$(l)Greater$() : tous les sorts, invocable, requis pour le Vrai Héros$(li)$(l)Lord$() : très rare, équivalent au Greater"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Sorts Medium / Greater$()$(li)Feu : Fire Bolt, Fire Breath / Flare Circle, Hellfire$(li)Eau : Acid Rain, Water Cutter / Blizzard, Megiddo$(li)Terre : Earth Spikes, Earth Storm / Earth Jail, Magma Surge$(li)Vent :"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Lightning Lance, Wind Blade / Aerial Blade, Electro Blast$(br2)$(li)Espace : Gate, Shrink, Teleport / Swipe$(li)Lumière : Solar Beam, Solar Wave / Solar Flare, Solar Rain$(li)Ténèbres : Dark Cube, Shadow Bind / Darkness Cannon, True Darkness"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Voir tes esprits : $(l)/tensura get spirit$()."
+    }
+  ]
+}

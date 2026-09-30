@@ -1,0 +1,24 @@
+{
+  "name": "Évolution de l'équipement",
+  "icon": "tensura:monster_leather_chestplate_a",
+  "category": "tfother:mecaniques",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le Monster Leather et le Magisteel $(l)évoluent$() : utilise-les ou porte-les en tuant des créatures pour leur donner de l'EP."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Monster Leather$()$(li)D → C : 2 500 EP$(li)C → B : 5 000 EP$(li)B → A : 8 000 EP$(li)A → Special A : 80 000 EP"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Magisteel$()$(li)Low → High : 18 000 EP$(li)High → Pure : 52 000 EP$(li)Pure → Adamantite : 225 000 EP$(li)Adamantite → Hihi'irokane : 750 000 EP"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Le $(l)Mithril$() passe en Adamantite (225 000 EP) puis Hihi'irokane. L'$(l)Orichalcum$() passe directement en Hihi'irokane (750 000 EP)."
+    }
+  ]
+}

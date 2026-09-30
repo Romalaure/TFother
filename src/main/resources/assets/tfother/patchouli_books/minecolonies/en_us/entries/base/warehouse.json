@@ -1,0 +1,16 @@
+{
+  "name": "Entrepôt et Coursiers",
+  "icon": "minecolonies:blockhutwarehouse",
+  "category": "tfother:base",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "L'$(l)Entrepôt$() est le stockage central, dans des $(l)Racks$(). Chaque niveau permet 2 coursiers de plus (10 au niveau 5) et plus de stockage."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Le $(l)Coursier$() fait la navette entre l'entrepôt et les cabanes. Chaque coursier a sa cabane. Niveau de la cabane = piles transportées (2, 3, 4, 5, puis illimité).$(br2)L'Agilité du coursier le fait courir plus vite, son Adaptabilité lui fait visiter plus de cabanes par trajet."
+    }
+  ]
+}

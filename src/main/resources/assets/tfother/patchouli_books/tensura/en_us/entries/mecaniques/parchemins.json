@@ -1,0 +1,24 @@
+{
+  "name": "Parchemins de réinitialisation",
+  "icon": "tensura:race_reset_scroll",
+  "category": "tfother:mecaniques",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Skill Reset Scroll$()$(br)Papier + lingot de Pure Magisteel + lingot d'Orichalcum + Magic Stone + Monster Leather (A). Réinitialise toutes tes compétences sauf les intrinsèques de ta race. Attention : il ne redonne pas de compétence unique !"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Race Reset Scroll$()$(br)Papier + lingot de Mithril + Monster Leather (A) + Magic Stone. Réinitialise stats, nom, éveil, esprits, résistances et race."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Character Reset Scroll$()$(br)Papier + lingot de Pure Magisteel + Magic Stone + Monster Leather (A). Remet tout à zéro, comme une nouvelle réincarnation."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Magie Reincarnation$()$(br)Permet de rechoisir sa race en gardant compétences non intrinsèques, esprits, éveil et 75 % de ses MP/AP max. Maîtrisée, elle débloque les races non standard."
+    }
+  ]
+}

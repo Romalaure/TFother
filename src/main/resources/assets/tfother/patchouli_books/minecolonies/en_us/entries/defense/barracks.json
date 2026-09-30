@@ -1,0 +1,16 @@
+{
+  "name": "Caserne",
+  "icon": "minecolonies:blockhutbarracks",
+  "category": "tfother:defense",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La meilleure défense : chaque $(l)Barracks Tower$() loge 1 garde par niveau (5 max). Les casernes officielles ont 4 tours, soit $(l)20 gardes$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Types de gardes$()$(li)Chevalier : mêlée, épée (+ bouclier, armure)$(li)Archer : distance, arc$(li)Druide : lance des potions$(br2)Au niveau 3, tu peux engager des espions qui font briller les raiders."
+    }
+  ]
+}

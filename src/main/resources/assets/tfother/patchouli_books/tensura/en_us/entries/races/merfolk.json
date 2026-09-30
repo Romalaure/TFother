@@ -1,0 +1,16 @@
+{
+  "name": "Homme-poisson",
+  "icon": "minecraft:tropical_fish",
+  "category": "tfother:races",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Race sprite descendant des élémentaires de l'eau, redoutable dans l'eau.$(br2)$(li)$(l)Difficulté$() : Intermédiaire$(li)$(l)PV$() : 24$(li)$(l)MP$() : 400 - 600$(li)$(l)AP$() : 500 - 600$(li)$(l)Alignement$() : Aucun"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Respiration aquatique innée. Plus de chances d'obtenir un esprit de l'Eau.$(br2)$(l)Évolution$()$(li)Homme-poisson Éclairé : 100 000 EP ou Harvest Festival"
+    }
+  ]
+}

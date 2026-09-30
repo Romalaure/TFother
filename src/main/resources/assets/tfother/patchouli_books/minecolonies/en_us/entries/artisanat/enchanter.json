@@ -1,0 +1,16 @@
+{
+  "name": "Tour de l'Enchanteur",
+  "icon": "minecolonies:blockhutenchanter",
+  "category": "tfother:artisanat",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "L'Enchanteur crée des livres enchantés avec des $(l)Ancient Tomes$(), en observant les autres ouvriers pour gagner de l'expérience. Niveau du bâtiment = niveau max des enchantements."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Il fabrique aussi des parchemins de téléportation vers la colonie (papier, boussole et Build Tool)."
+    }
+  ]
+}

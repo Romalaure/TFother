@@ -1,0 +1,20 @@
+{
+  "name": "Progression",
+  "icon": "minecraft:experience_bottle",
+  "category": "tfother:debuter",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Milieu de partie$()$(br)Monte ton équipement en Magisteel et vise tes évolutions. Les piglins, piglins zombies et wither squelettes du Nether donnent un bon EP."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Récupère des esprits à l'$(l)Arbre du Labyrinthe$() et apprends la compétence $(l)Sage$() (maîtriser 20 magies ou Battlewills) pour progresser plus vite."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Fin de partie$()$(br)Fais ton éveil après $(l)1 million d'EP$() ou plus. Pour les boss de fin, vise environ $(l)2 millions d'EP$() et des compétences maîtrisées.$(br2)$(l)Farm d'EP$()$(li)Farm d'endermen dans l'End (AFK)$(li)Chasse aux Sissie dans les océans$(li)Combats de boss"
+    }
+  ]
+}

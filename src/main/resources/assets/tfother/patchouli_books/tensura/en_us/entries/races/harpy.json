@@ -1,0 +1,16 @@
+{
+  "name": "Harpie",
+  "icon": "minecraft:feather",
+  "category": "tfother:races",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Proche des hommes-bêtes, spécialisée dans le combat aérien.$(br2)$(li)$(l)Difficulté$() : Facile$(li)$(l)PV$() : 30$(li)$(l)MP$() : 1 500 - 2 500$(li)$(l)AP$() : 300 - 600$(li)$(l)Alignement$() : Majin"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Se propulse avec ses ailes et plane comme avec des élytres.$(br2)$(l)Évolution$()$(li)Reine Harpie : 200 000 EP"
+    }
+  ]
+}

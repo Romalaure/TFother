@@ -1,0 +1,20 @@
+{
+  "name": "Raids",
+  "icon": "minecraft:iron_axe",
+  "category": "tfother:defense",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Les raids arrivent au $(l)début de la nuit$(). Un message indique leur direction et une barre montre la progression. Les citoyens rentrent chez eux."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Type selon le biome$()$(li)Taïga : Nordiques$(li)Désert : Momies (les Pharaons peuvent lâcher un sceptre)$(li)Grande étendue d'eau : Pirates (bateau avec spawners à casser)$(li)Jungle : Amazones$(li)Ailleurs : Barbares"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Les raiders cassent les blocs, posent des échelles et traversent la lave : les pièges ne marchent pas. Survivre sans perte donne un bonus de bonheur."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Wight",
+  "icon": "minecraft:skeleton_skull",
+  "category": "tfother:races",
+  "sortnum": 12,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mort-vivant squelettique demi-spirituel, très affaibli par le soleil.$(br2)$(li)$(l)Difficulté$() : Difficile$(li)$(l)PV$() : 20$(li)$(l)MP$() : 2 000 - 3 000$(li)$(l)AP$() : 100 - 500$(li)$(l)Alignement$() : Majin"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Les morts-vivants sont passifs. Au soleil : Fragilité, Faiblesse, Fatigue, Lenteur III et brûlure (un casque évite la brûlure, pas sous un toit ni sous la pluie).$(br2)$(l)Évolution$()$(li)Roi Wight (Wight King)"
+    }
+  ]
+}

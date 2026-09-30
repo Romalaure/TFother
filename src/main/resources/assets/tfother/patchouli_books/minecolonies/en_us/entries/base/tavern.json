@@ -1,0 +1,16 @@
+{
+  "name": "Taverne",
+  "icon": "minecolonies:blockhuttavern",
+  "category": "tfother:base",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Loge $(l)4 citoyens$() (non améliorable en lits) et attire des $(l)visiteurs$(). Tu peux les recruter en leur donnant les objets demandés. Ne les attaque pas, ils se défendent !"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Monte jusqu'au niveau 3 maximum : plus de visiteurs et de meilleure qualité. Une seule taverne par colonie."
+    }
+  ]
+}

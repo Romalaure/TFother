@@ -1,0 +1,16 @@
+{
+  "name": "Sommeil et logement",
+  "icon": "minecraft:red_bed",
+  "category": "tfother:citoyens",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "La nuit, les citoyens dorment dans leur lit. S'ils n'y arrivent pas pendant 3 jours, ils sont malheureux.$(br2)Les sans-abri se regroupent à l'Hôtel de ville et sont contrariés au bout de deux semaines."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "À plus de $(l)100 blocs$() de leur travail, ils se plaignent : échange leurs lits.$(br2)Avec au moins un homme et une femme, des enfants peuvent naître. Ils héritent en partie des compétences des adultes de leur maison."
+    }
+  ]
+}

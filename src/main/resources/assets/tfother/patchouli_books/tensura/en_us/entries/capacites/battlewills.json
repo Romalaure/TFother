@@ -1,0 +1,16 @@
+{
+  "name": "Battlewills",
+  "icon": "tensura:battlewill_manual",
+  "category": "tfother:capacites",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Les Battlewills sont des arts de combat qui utilisent l'aura. On les apprend avec des $(l)Battlewill Manuals$(), trouvés dans les coffres qui contiennent des pommes dorées (temples du désert, donjons à spawner...)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Mêlée$() : Aura Slash, Aura Sword, Heavy Slash, Roaring Lion Punch...$(br2)$(l)Projectiles$() : Magic Bullet, Ogre Flame, Ogre-sword Cannon...$(br2)$(l)Utilitaires$() : Air Flight, Aura Shield, Instant-move, Formhide..."
+    }
+  ]
+}

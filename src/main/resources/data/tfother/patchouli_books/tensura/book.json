@@ -1,0 +1,10 @@
+{
+  "name": "Wiki Tensura",
+  "subtitle": "Tensura: Reincarnated",
+  "landing_text": "Bienvenue, voyageur réincarné ! Je suis le Slime et voici tout ce qu'il faut savoir sur $(l)Tensura: Reincarnated$() : races, EP, compétences, esprits, boss et éveils.$(br2)Choisis une catégorie pour commencer.",
+  "model": "patchouli:book_blue",
+  "dont_generate_book": true,
+  "use_resource_pack": true,
+  "show_progress": false,
+  "version": 1
+}

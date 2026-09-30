@@ -1,0 +1,16 @@
+{
+  "name": "Premier équipement",
+  "icon": "tensura:smithing_bench",
+  "category": "tfother:debuter",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "En tuant des monstres, tu obtiens du $(l)Monster Leather$() (cuir de monstre). Il sert à fabriquer une armure qui évolue quand tu gagnes de l'EP."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Pour la fabriquer, il faut un $(l)Smithing Bench$() : 2 fers, 3 papiers, 1 table de craft et 2 planches.$(br2)Voir aussi l'entrée $(l)Évolution de l'équipement$() dans la catégorie Mécaniques."
+    }
+  ]
+}

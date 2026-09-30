@@ -1,0 +1,20 @@
+{
+  "name": "Races hardcore",
+  "icon": "minecraft:skeleton_skull",
+  "category": "tfother:monde",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Si la gamerule des races hardcore est activée :"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)Slime : aveugle au départ, il faut Magic Sense$(li)Homme-lézard : affaibli dans le froid$(li)Homme-poisson : suffoque hors de l'eau$(li)Wight, Goule, Vampire : brûlent au soleil même avec un casque$(li)Orc Lord / Disaster : Faim III / V"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Un joueur nommé ne peut alors plus s'éveiller."
+    }
+  ]
+}

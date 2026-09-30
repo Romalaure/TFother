@@ -1,0 +1,16 @@
+{
+  "name": "Fermier",
+  "icon": "minecolonies:blockhutfarmer",
+  "category": "tfother:production",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Cultive blé, carottes, pommes de terre, betteraves, melons, citrouilles et la plupart des cultures moddées. Donne-lui une houe, une hache et la graine voulue."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Pose des blocs $(l)Field$() (épouvantail) dans les champs et mets la graine dans leur menu. Une seule action par champ et par jour, le cycle jour/nuit doit être actif.$(br2)Il fabrique aussi graines, bottes de foin et terre stérile si tu lui apprends les recettes."
+    }
+  ]
+}

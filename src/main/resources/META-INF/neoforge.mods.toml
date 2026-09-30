@@ -4,11 +4,11 @@ license = "All Rights Reserved"
 
 [[mods]]
 modId = "tfother"
-version = "1.0.1"
+version = "1.1.0"
 displayName = "TFother"
 authors = "Timefield"
 description = '''
-Divers ajouts Timefield. PNJ Slime (wiki Tensura) et PNJ Bob (wiki MineColonies) qui ouvrent le wiki officiel quand on leur parle.
+Divers ajouts Timefield. PNJ Slime (wiki Tensura) et PNJ Bob (wiki MineColonies) qui ouvrent un wiki intégré en jeu quand on leur parle.
 '''
 
 [[dependencies.tfother]]
@@ -22,5 +22,12 @@ side = "BOTH"
 modId = "minecraft"
 type = "required"
 versionRange = "[1.21.1,1.22)"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tfother]]
+modId = "patchouli"
+type = "required"
+versionRange = "*"
 ordering = "NONE"
 side = "BOTH"

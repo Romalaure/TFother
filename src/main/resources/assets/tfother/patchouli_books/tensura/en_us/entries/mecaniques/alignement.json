@@ -1,0 +1,24 @@
+{
+  "name": "Alignement : Saint et Majin",
+  "icon": "minecraft:totem_of_undying",
+  "category": "tfother:mecaniques",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Saint (Holy)$()$(br)Obtenu en atteignant la 3e évolution d'une race non Majin (Human Saint, Elf Saint, Mystic Oni, Spirit Boar, True Dragonewt...). Nom de race en jaune."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Un Saint ne peut plus devenir Majin, ni Vrai Seigneur Démon (sauf alignement Chaos via la compétence Reverser)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Majin$()$(br)Monstre intelligent. Nom de race en violet. On le devient en commençant avec une race Majin, avec un Marionette Heart, en mourant d'empoisonnement aux magicules ou (5 %) au Demon Lord Haki."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Certaines évolutions rendent Majin : Vampire, Wicked Oni, Orc Lord. Un Majin de naissance ne peut pas devenir Vrai Héros.$(br2)$(l)Bonus communs$()$(li)Plus besoin d'air sous l'eau$(li)La faim ne descend pas sous 18"
+    }
+  ]
+}

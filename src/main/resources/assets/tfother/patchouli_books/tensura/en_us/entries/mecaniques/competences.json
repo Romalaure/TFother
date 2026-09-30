@@ -1,0 +1,32 @@
+{
+  "name": "Utiliser ses compétences",
+  "icon": "minecraft:enchanted_book",
+  "category": "tfother:mecaniques",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Apprendre$()$(br)Une compétence non apprise est grisée dans le menu. Équipe-la dans un emplacement et active-la avec sa touche : chaque essai rapproche de l'apprentissage. À $(l)100 points$(), elle est apprise."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Chaque essai a $(l)10 %$() de chances d'échouer : tu perds 1 à 3 points et subis Cécité, Paralysie ou Folie.$(br2)Apprendre coûte des MP max : $(l)100$() pour une Common Skill, $(l)1 000$() pour une Extra Skill. Sage, Great Sage, Mathematician et Cook accélèrent l'apprentissage."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Maîtrise$()$(br)Utiliser une compétence donne des points de maîtrise (sans échec). Toucher une cible donne x3, tuer x5. Certains modes demandent la maîtrise complète."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Presets$()$(br)9 presets de 3 compétences (27 au total). Change de preset avec $(l)Alt + molette$() ou Alt + numéro.$(br2)$(l)Modes$()$(br)Change le mode d'une compétence avec $(l)Alt + touche de l'emplacement$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Dans le menu$()$(li)Clic gauche : équiper$(li)Clic droit : voir les infos$(li)Clic molette : retirer"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Filtres de recherche$()$(li)f:learned / f:learning$(li)f:mastered / f:unmastered$(li)f:toggleable / f:toggledon$(li)f:oncooldown / f:offcooldown$(li)f:active / f:passive"
+    }
+  ]
+}

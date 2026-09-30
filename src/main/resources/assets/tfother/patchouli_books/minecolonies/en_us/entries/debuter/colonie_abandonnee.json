@@ -1,0 +1,16 @@
+{
+  "name": "Colonies abandonnées",
+  "icon": "minecolonies:blockhutcitizen",
+  "category": "tfother:debuter",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "En explorant, tu peux trouver des $(l)colonies abandonnées$() générées dans le monde. En réclamer une évite le Supply Camp."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Trouve l'Hôtel de ville et clique sur « Create new colony ». Ensuite, va sur chaque bloc de bâtiment et clique sur « Reactivate » pour le rattacher à ta colonie. Tu peux aussi les réparer."
+    }
+  ]
+}

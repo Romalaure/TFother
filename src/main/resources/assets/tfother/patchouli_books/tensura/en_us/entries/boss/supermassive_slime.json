@@ -1,0 +1,16 @@
+{
+  "name": "Supermassive Slime",
+  "icon": "tensura:slime_core",
+  "category": "tfother:boss",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Peut apparaître à la place d'un slime normal. Inflige des dégâts de corrosion : une résistance ou nullification à la corrosion le rend inoffensif."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Il a Ultraspeed Regen : attaque ses PV spirituels ou applique Severance.$(br2)Butin : Slime Core et Slime Chunk. Nourris un slime avec des Slime Cores pour avoir ton propre Supermassive Slime !"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Forestier",
+  "icon": "minecolonies:blockhutlumberjack",
+  "category": "tfother:production",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Coupe les arbres dans un rayon d'environ 150 blocs, sauf ceux dans un schéma de bâtiment ou qui ont de la cobblestone posée dessous. Tu peux définir une zone de coupe."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Il lui faut une $(l)hache$() pour les troncs et une $(l)houe$() pour les feuilles."
+    }
+  ]
+}

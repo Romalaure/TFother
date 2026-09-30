@@ -1,0 +1,16 @@
+{
+  "name": "Géant",
+  "icon": "minecraft:iron_block",
+  "category": "tfother:races",
+  "sortnum": 15,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Peut changer de taille à volonté, devenant immense et bien plus fort.$(br2)$(li)$(l)Difficulté$() : Facile$(li)$(l)PV$() : 50$(li)$(l)MP$() : 6 000 - 8 000$(li)$(l)AP$() : 4 000 - 6 000$(li)$(l)Alignement$() : Majin"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Changement de taille.$(br2)$(l)Évolution$()$(li)Géant Ancien : 300 000 EP + 20 Ancient Debris"
+    }
+  ]
+}

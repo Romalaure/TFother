@@ -1,0 +1,16 @@
+{
+  "name": "Démon Mineur",
+  "icon": "minecraft:crying_obsidian",
+  "category": "tfother:races",
+  "sortnum": 14,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le plus bas rang des démons, né dans le Royaume Démoniaque.$(br2)$(li)$(l)Difficulté$() : Facile$(li)$(l)PV$() : 40$(li)$(l)MP$() : 5 000 - 6 000$(li)$(l)AP$() : 2 000 - 3 000$(li)$(l)Alignement$() : Majin"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Vol créatif (non affecté par Magic Jamming). Sans nom ni éveil, l'EP est plafonné dans le monde physique.$(br2)$(l)Évolution$()$(li)Démon Supérieur : 20 000 EP ou Harvest Festival"
+    }
+  ]
+}

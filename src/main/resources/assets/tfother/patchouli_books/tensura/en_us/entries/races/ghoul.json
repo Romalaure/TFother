@@ -1,0 +1,16 @@
+{
+  "name": "Goule",
+  "icon": "minecraft:spider_eye",
+  "category": "tfother:races",
+  "sortnum": 13,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Mort-vivant affamé, point de départ de la lignée des vampires.$(br2)$(li)$(l)Difficulté$() : Difficile$(li)$(l)PV$() : 14$(li)$(l)MP$() : 2 000 - 3 000$(li)$(l)AP$() : 1 000 - 2 000$(li)$(l)Alignement$() : Majin$(br2)$(l)Capacité raciale$()$(br)Aucune."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Évolution$()$(li)Vampire : consommer 1 Zane Blood ou Harvest Festival"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Fonderie",
+  "icon": "minecolonies:blockhutsmeltery",
+  "category": "tfother:artisanat",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le $(l)Fondeur$() fond les minerais en lingots, avec Fortune (niveau du bâtiment - 1). Plus le niveau est haut, plus il utilise de fourneaux et plus il a de chances de doubler ou tripler les lingots."
+    }
+  ]
+}

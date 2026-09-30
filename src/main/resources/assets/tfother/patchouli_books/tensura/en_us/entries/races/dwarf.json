@@ -1,0 +1,16 @@
+{
+  "name": "Nain",
+  "icon": "minecraft:iron_pickaxe",
+  "category": "tfother:races",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Race sprite descendant des élémentaires de la terre, dotée d'une volonté immense.$(br2)$(li)$(l)Difficulté$() : Difficile$(li)$(l)PV$() : 24$(li)$(l)MP$() : 80 - 120$(li)$(l)AP$() : 720 - 1 080$(li)$(l)Alignement$() : Aucun"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Aucune. Plus de chances d'obtenir un esprit de la Terre.$(br2)$(l)Évolution$()$(li)Nain Éclairé : 100 000 EP ou Harvest Festival"
+    }
+  ]
+}

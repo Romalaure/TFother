@@ -1,0 +1,12 @@
+{
+  "name": "Tailleur de pierre",
+  "icon": "minecolonies:blockhutstonemason",
+  "category": "tfother:artisanat",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Fabrique les recettes en pierre, andésite, diorite, granite, quartz, briques du Nether, prismarine, grès, blackstone, basalte... (sans lingot ni redstone)."
+    }
+  ]
+}

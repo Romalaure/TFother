@@ -1,0 +1,24 @@
+{
+  "name": "Vrai Héros",
+  "icon": "minecraft:turtle_egg",
+  "category": "tfother:eveils",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)L'Œuf du Héros$()$(br)Obtiens les 5 Greater Spirits de base (Feu, Eau, Vent, Terre, Espace) + un Greater de Lumière ou de Ténèbres. Tu ne dois pas être Majin de naissance. Tu gagnes aussi Eye Of Truth."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "5 % de chances d'être $(l)Béni$() en se réincarnant avec une race non Majin : l'œuf est alors obtenu immédiatement.$(br2)$(l)Éclosion$()$(br)Régénère des PV en étant sous 25 % de tes PV max, contre un boss valide avec au moins $(l)400 000 EP$() et sous 50 % de ses PV."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Boss valides$()$(li)Wither, Ender Dragon$(li)Elemental Colossus, Charybdis, Akash$(li)Ifrit, Sylphide, Undine, War Gnome$(li)Orc Lord, Orc Disaster, Supermassive Slime$(li)Dragons, Gorgon, Hydra, Dread Lich (Ice and Fire)"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Effets$()$(li)EP x3$(li)Résistances → Nullifications$(li)Unpredictability : ignore esquives et critiques"
+    }
+  ]
+}

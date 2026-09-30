@@ -1,0 +1,16 @@
+{
+  "name": "Magie",
+  "icon": "minecraft:blaze_rod",
+  "category": "tfother:capacites",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Magie aspectuelle$()$(br)Écoles : Feu, Eau, Terre, Vent, Espace, Explosion, Foudre, Glace, Gravité, Renforcement, Soin, Illusion, Mental, Barrière et divers (Reincarnation, Analyze, Flight...)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Magie spirituelle$()$(br)Obtenue grâce aux $(l)esprits$(). Rangs : Lesser, Intermediate, Greater. Exemples : Fire Bolt, Hellfire, Megiddo, Darkness Cannon.$(br2)$(l)Invocation$()$(br)Summon Medium Elemental, Summon Greater Elemental, Summon Hound Dog."
+    }
+  ]
+}

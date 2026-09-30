@@ -1,0 +1,20 @@
+{
+  "name": "L'Arbre du Labyrinthe",
+  "icon": "minecraft:oak_log",
+  "category": "tfother:esprits",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "L'$(l)Arbre du Labyrinthe$() apparaît rarement dans les $(l)Ancient Forest$(). Un nain cartographe de niveau maître vend une carte qui y mène."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Il faut au moins $(l)8 000 EP$() pour entrer, sinon l'empoisonnement aux magicules te tue et t'expulse (sans perte d'EP). Les magicules s'y régénèrent plus vite."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "À l'intérieur, le $(l)Colosse Élémentaire$() garde le passage. Que tu le battes ou que tu meures, tu pourras ensuite aller prier. Le vaincre donne un bloc de Pure Magisteel (qui permet de le réinvoquer)."
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "name": "Réfectoire et Cuisine",
+  "icon": "minecolonies:blockhutcook",
+  "category": "tfother:artisanat",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Au $(l)Réfectoire$() (Dining Hall), le Serveur cuit la nourriture et nourrit les citoyens affamés. Il lui faut ingrédients et combustible."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "À la $(l)Cuisine du Chef$(), le Chef prépare les plats élaborés sur demande, pour garder le Réfectoire approvisionné. La Boulangerie complète avec les produits boulangers."
+    }
+  ]
+}

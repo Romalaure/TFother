@@ -1,0 +1,20 @@
+{
+  "name": "Fonder sa colonie",
+  "icon": "minecolonies:supplycampdeployer",
+  "category": "tfother:debuter",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le plus simple est de commencer avec un $(l)Supply Camp$() (ou $(l)Supply Ship$()). Il donne gratuitement l'Hôtel de ville, le $(l)Build Tool$() et des ressources."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Fabrique-le et fais clic droit directement sur le sol ou l'eau (sans le Build Tool).$(br2)$(li)Camp : zone plate et dégagée de 16x17 minimum, sans trou ni fleurs ni herbes$(li)Bateau : étendue d'eau d'au moins 32x20"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Un seul Supply Camp/Ship par monde ! S'il refuse de se poser, décale-le bloc par bloc.$(br2)Récupère l'Hôtel de ville et le Build Tool dans le coffre de la structure."
+    }
+  ]
+}

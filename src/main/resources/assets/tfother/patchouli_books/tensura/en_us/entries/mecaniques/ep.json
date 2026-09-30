@@ -1,0 +1,20 @@
+{
+  "name": "EP, Magicules et Aura",
+  "icon": "minecraft:nether_star",
+  "category": "tfother:mecaniques",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "L'$(l)EP$() (Existence Points) mesure la puissance d'une créature : c'est la somme de tes $(l)Magicules (MP)$() et de ton $(l)Aura (AP)$(). L'EP sert à évoluer, s'éveiller et apprendre certaines compétences."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Gain$()$(br)Par défaut, tu gagnes $(l)3 %$() de l'EP du monstre tué. Si tu es bien plus fort que lui, le gain baisse de 1 % par multiple d'écart (réduction max 90 %)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Répartition$()$(li)Non-Majin : 2/3 en Aura, 1/3 en Magicules$(li)Majin : 2/3 en Magicules, 1/3 en Aura$(br2)$(l)Mort$()$(br)Chaque mort te fait perdre $(l)5 %$() de ton EP (réglable par gamerule)."
+    }
+  ]
+}

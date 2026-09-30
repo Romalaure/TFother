@@ -1,0 +1,16 @@
+{
+  "name": "Résidence",
+  "icon": "minecolonies:blockhutcitizen",
+  "category": "tfother:base",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Les citoyens y dorment la nuit. Chaque niveau ajoute $(l)1 lit$() (5 au niveau 5).$(br2)Une fois les 4 premiers citoyens logés, un lit libre fait arriver un nouveau citoyen. Tu peux aussi recruter à la Taverne."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Le niveau de la résidence limite les compétences max de ses habitants. Au-delà de 25 citoyens, il faut les recherches Outpost, Hamlet, Village puis City à l'Université."
+    }
+  ]
+}

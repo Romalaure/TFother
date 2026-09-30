@@ -1,0 +1,16 @@
+{
+  "name": "Orc Lord",
+  "icon": "minecraft:porkchop",
+  "category": "tfother:boss",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Boss du début du milieu de partie. Invoque des orcs et ses attaques infligent $(l)Corrosion$(), qui détruit l'armure.$(br2)Butin : Royal Blood et viande. Tu peux y apprendre la compétence Corrosion."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Orc Disaster$()$(br)Si un Orc Lord gagne $(l)200 000 EP$() (en lui faisant tuer des subordonnés à fort EP), il évolue en Orc Disaster, un boss de fin de partie."
+    }
+  ]
+}

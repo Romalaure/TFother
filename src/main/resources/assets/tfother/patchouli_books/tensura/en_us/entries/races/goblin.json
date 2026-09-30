@@ -1,0 +1,16 @@
+{
+  "name": "Gobelin",
+  "icon": "minecraft:rotten_flesh",
+  "category": "tfother:races",
+  "sortnum": 7,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Demi-humains sprites, descendants de nains et d'oni.$(br2)$(li)$(l)Difficulté$() : Difficile$(li)$(l)PV$() : 12$(li)$(l)MP$() : 700$(li)$(l)AP$() : 300$(li)$(l)Alignement$() : Aucun"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Aucune. Plus de chances d'obtenir un esprit du Feu.$(br2)$(l)Évolution$()$(li)Hobgobelin : 2 000 EP ou Harvest Festival"
+    }
+  ]
+}

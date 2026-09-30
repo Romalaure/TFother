@@ -1,0 +1,16 @@
+{
+  "name": "Équipement des ouvriers",
+  "icon": "minecraft:iron_pickaxe",
+  "category": "tfother:citoyens",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le niveau de la cabane limite les outils utilisables :$(br2)$(li)Bois / or : niveau 0$(li)Pierre : niveau 1$(li)Fer : niveau 2$(li)Diamant : niveau 3$(li)Netherite : niveau 4"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Les enchantements autorisés augmentent aussi avec le niveau. Les armures des gardes suivent le même principe (cuir au niv. 1, jusqu'à netherite au niv. 5)."
+    }
+  ]
+}

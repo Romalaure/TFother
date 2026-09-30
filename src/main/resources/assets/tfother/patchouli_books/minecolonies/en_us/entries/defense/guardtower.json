@@ -1,0 +1,16 @@
+{
+  "name": "Tour de garde",
+  "icon": "minecolonies:blockhutguardtower",
+  "category": "tfother:defense",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Emploie et loge $(l)1 garde$(). Il patrouille autour de la tour : 80 blocs au niveau 1, jusqu'à 200 au niveau 5."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Les tours rassurent les citoyens (bonheur) et, près de la frontière, agrandissent le territoire."
+    }
+  ]
+}

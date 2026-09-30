@@ -1,0 +1,16 @@
+{
+  "name": "Humain",
+  "icon": "minecraft:iron_sword",
+  "category": "tfother:races",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Race faible mais nombreuse, qui compte sur la technique plutôt que la force. Peu de magicules : on mise surtout sur les Battlewills."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)Difficulté$() : Difficile$(li)$(l)PV$() : 20$(li)$(l)MP$() : 50 - 70$(li)$(l)AP$() : 760 - 1 140$(li)$(l)Alignement$() : Aucun$(br2)$(l)Capacité raciale$()$(br)Aucune.$(br2)$(l)Évolution$()$(li)Humain Éclairé : 100 000 EP ou Harvest Festival$(li)Vampire : consommer 5 Zane Blood"
+    }
+  ]
+}

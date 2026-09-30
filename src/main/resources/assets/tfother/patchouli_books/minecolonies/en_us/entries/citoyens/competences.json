@@ -1,0 +1,20 @@
+{
+  "name": "Compétences",
+  "icon": "minecraft:experience_bottle",
+  "category": "tfother:citoyens",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Chaque métier a une compétence $(l)principale$() (en vert à l'embauche) et $(l)secondaire$() (en jaune). Plus elles sont hautes, plus l'ouvrier est rapide et efficace."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Elles augmentent en travaillant, mais sont plafonnées par le niveau de la maison :$(br2)$(li)Maison niv. 0 : 10$(li)Niv. 1 : 20$(li)Niv. 2 : 30$(li)Niv. 3 : 40$(li)Niv. 4 : 50$(li)Niv. 5 : 99"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Pluie, neige, nuit ou mort d'un citoyen la veille : les ouvriers ne travaillent pas."
+    }
+  ]
+}

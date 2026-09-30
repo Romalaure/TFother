@@ -1,0 +1,12 @@
+{
+  "name": "Scierie",
+  "icon": "minecolonies:blockhutsawmill",
+  "category": "tfother:artisanat",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le $(l)Charpentier$() fabrique les objets faits d'au moins 75 % de bois, sans lingot, pierre, redstone ni ficelle. Il fait aussi les Racks et les blocs Domum Ornamentum en bois."
+    }
+  ]
+}

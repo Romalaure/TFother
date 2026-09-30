@@ -1,0 +1,16 @@
+{
+  "name": "Gazel Dwargo",
+  "icon": "minecraft:netherite_axe",
+  "category": "tfother:boss",
+  "sortnum": 4,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le roi des nains. Il faut $(l)100 de réputation$() positive (commerce, protéger les nains) ou négative (les attaquer)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "La réputation négative est plus rapide mais ne permet qu'un seul combat et bloque le commerce. La positive permet de l'affronter à volonté et baisse les prix.$(br2)Entre dans son arène par le Royal Warp Pad des villages nains. Butin : son arme Rhuk et un Battlewill exclusif."
+    }
+  ]
+}

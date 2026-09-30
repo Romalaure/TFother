@@ -1,0 +1,16 @@
+{
+  "name": "Pêcheur",
+  "icon": "minecolonies:blockhutfisherman",
+  "category": "tfother:production",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Besoin d'une canne à pêche et d'une étendue d'eau d'au moins $(l)7x7 et 2 de profondeur$() près de la cabane."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Les niveaux augmentent la portée et le butin (prismarine, éponges...). Les trésors ne sortent que dans les biomes océaniques."
+    }
+  ]
+}

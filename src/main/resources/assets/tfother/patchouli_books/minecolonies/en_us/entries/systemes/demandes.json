@@ -1,0 +1,16 @@
+{
+  "name": "Demandes",
+  "icon": "minecolonies:clipboard",
+  "category": "tfother:systemes",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Quand un citoyen a besoin d'un objet, il cherche dans son inventaire, sa cabane et ses racks, puis fait une $(l)demande$(). Si l'objet est à l'Entrepôt, un Coursier le livre."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Sinon, les artisans qui savent le fabriquer s'en chargent, en demandant eux-mêmes les ingrédients (bûches → planches → escaliers...).$(br2)Si personne ne peut, le citoyen affiche une $(l)roue rouge$() : parle-lui pour voir ce qu'il veut, puis donne-le-lui ou mets-le à l'Entrepôt."
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "name": "Prier pour un esprit",
+  "icon": "minecraft:soul_lantern",
+  "category": "tfother:esprits",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Monte jusqu'au cercle de prière et reste $(l)accroupi 20 secondes$() sur le chemin de prière."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Chances$()$(li)Lesser : 40 %$(li)Medium : 20 %$(li)Greater : 10 %$(li)Lord : 1 % (si tu as déjà un Medium ou Greater de l'élément)$(br2)Ensuite, $(l)20 minutes$() de recharge. Prier trop tôt te renvoie à l'entrée. Commande : $(l)/tensura get spirit cooldown$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Bonus raciaux (Lesser garanti, Medium et Greater x2) : Nain → Terre, Elfe → Vent, Homme-poisson → Eau, Gobelin et Ogre → Feu."
+    }
+  ]
+}

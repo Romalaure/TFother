@@ -1,0 +1,16 @@
+{
+  "name": "Hôtel de ville",
+  "icon": "minecolonies:blockhuttownhall",
+  "category": "tfother:base",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le cœur de la colonie. Son menu gère les permissions des joueurs, le recrutement, les logements et affiche le bonheur de la colonie."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Le bloc ne peut être fabriqué qu'après avoir posé celui du Supply Camp.$(br2)Son niveau agrandit le territoire (voir Frontières) et débloque d'autres fonctions."
+    }
+  ]
+}

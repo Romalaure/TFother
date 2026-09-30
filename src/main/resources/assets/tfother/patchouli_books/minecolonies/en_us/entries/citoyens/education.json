@@ -1,0 +1,16 @@
+{
+  "name": "Éducation",
+  "icon": "minecolonies:blockhutlibrary",
+  "category": "tfother:citoyens",
+  "sortnum": 6,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(li)$(l)École$() : le Professeur augmente l'Intelligence des enfants (2 par niveau). Le papier accélère.$(li)$(l)Bibliothèque$() : les adultes y étudient l'Intelligence (2 par niveau). Papier et livres accélèrent."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "L'Intelligence accélère la progression de toutes les autres compétences."
+    }
+  ]
+}

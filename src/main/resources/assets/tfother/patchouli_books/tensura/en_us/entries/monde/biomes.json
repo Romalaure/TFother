@@ -1,0 +1,20 @@
+{
+  "name": "Biomes",
+  "icon": "minecraft:oak_sapling",
+  "category": "tfother:monde",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Tensura ajoute 8 biomes. Chacun demande un minimum de magicules pour y entrer sans $(l)empoisonnement aux magicules$()."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Surface$()$(li)Ancient Forest : forêt dense, abrite l'Arbre du Labyrinthe$(li)Miasmic Plains : marais brumeux, les morts-vivants n'y brûlent pas$(li)Barren Lands$(li)Desert of Death"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Enfer (Hell)$()$(li)Underworld Barrens$(li)Underworld Red Sands$(li)Underworld Sands$(li)Underworld Spikes"
+    }
+  ]
+}

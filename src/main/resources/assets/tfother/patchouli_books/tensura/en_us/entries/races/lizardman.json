@@ -1,0 +1,16 @@
+{
+  "name": "Homme-lézard",
+  "icon": "minecraft:turtle_scute",
+  "category": "tfother:races",
+  "sortnum": 8,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Peuple écailleux descendant des dragons. Ses pieds palmés l'avantagent en terrain humide.$(br2)$(li)$(l)Difficulté$() : Intermédiaire$(li)$(l)PV$() : 24$(li)$(l)MP$() : 100 - 200$(li)$(l)AP$() : 600 - 800$(li)$(l)Alignement$() : Aucun"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Aucune.$(br2)$(l)Évolution$()$(li)Dragonewt : consommer 10 Dragon Essence ou Harvest Festival"
+    }
+  ]
+}

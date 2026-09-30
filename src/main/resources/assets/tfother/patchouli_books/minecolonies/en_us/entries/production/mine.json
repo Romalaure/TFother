@@ -1,0 +1,16 @@
+{
+  "name": "Mine",
+  "icon": "minecolonies:blockhutminer",
+  "category": "tfother:production",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le Mineur creuse un puits, puis des galeries. Chaque niveau permet de descendre d'un palier :$(br2)$(li)Cuivre : Y 48$(li)Fer : Y 16$(li)Or : Y -16$(li)Diamant : bedrock"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Tu peux limiter la profondeur dans les réglages. Tu peux aussi y embaucher un $(l)Carrier$() pour une Carrière à la place du mineur."
+    }
+  ]
+}

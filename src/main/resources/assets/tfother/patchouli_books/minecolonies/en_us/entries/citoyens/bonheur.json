@@ -1,0 +1,16 @@
+{
+  "name": "Bonheur",
+  "icon": "minecolonies:blockhutmysticalsite",
+  "category": "tfother:citoyens",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Le bonheur dépend de 3 facteurs : $(l)sécurité$(), $(l)logement$() et $(l)saturation$().$(br2)$(li)Bien manger$(li)Maison au-dessus du niveau 2.5$(li)Au moins 2 gardes pour 3 citoyens, et des tours près des maisons"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Baissent le bonheur : mort d'un citoyen (deuil), blessure, maladie, pas de maison, chômage, rien à faire au travail.$(br2)Une colonie heureuse donne de meilleurs nouveaux citoyens. Le $(l)Site Mystique$() augmente le bonheur global."
+    }
+  ]
+}

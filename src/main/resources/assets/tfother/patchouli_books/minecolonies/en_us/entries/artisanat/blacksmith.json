@@ -1,0 +1,12 @@
+{
+  "name": "Forgeron",
+  "icon": "minecolonies:blockhutblacksmith",
+  "category": "tfother:artisanat",
+  "sortnum": 3,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Fabrique outils, armures, épées et boucliers vanilla (pas d'arcs ni de redstone). Au niveau 5, il apprend les 9 recettes en netherite."
+    }
+  ]
+}

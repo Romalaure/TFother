@@ -1,0 +1,16 @@
+{
+  "name": "Hinata Sakaguchi",
+  "icon": "minecraft:golden_sword",
+  "category": "tfother:boss",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Boss de fin de partie qui invoque tous les Greater Spirits. $(l)Fault Field$() la rend intouchable sauf dégâts spirituels, spatiaux ou mentaux."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Attention à $(l)Disintegration$() : tue instantanément si elle touche. Elle a énormément de résistances, privilégie les compétences Bypass/Degrade.$(br2)Butin possible : ses armes et l'armure Holy Armorments."
+    }
+  ]
+}

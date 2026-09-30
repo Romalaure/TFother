@@ -1,0 +1,16 @@
+{
+  "name": "Ogre",
+  "icon": "minecraft:blaze_powder",
+  "category": "tfother:races",
+  "sortnum": 9,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Race sprite descendant des élémentaires du feu, aux capacités physiques immenses.$(br2)$(li)$(l)Difficulté$() : Facile$(li)$(l)PV$() : 26$(li)$(l)MP$() : 300 - 600$(li)$(l)AP$() : 1 500 - 2 500$(li)$(l)Alignement$() : Aucun"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Capacité raciale$()$(br)Aucune. Plus de chances d'obtenir un esprit du Feu.$(br2)$(l)Évolution$()$(li)Kijin : obtenir un esprit ou Harvest Festival$(li)Ogre Éclairé : 100 000 EP"
+    }
+  ]
+}

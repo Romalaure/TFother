@@ -1,0 +1,16 @@
+{
+  "name": "Harvest Festival",
+  "icon": "minecraft:hay_block",
+  "category": "tfother:eveils",
+  "sortnum": 1,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "L'éveil en Vrai Seigneur Démon déclenche un $(l)Harvest Festival$() de 3 minutes, qui touche les subordonnés dans un rayon de 30 blocs."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(li)1re minute : pas de compétences, vision et mouvements limités$(li)2e minute : tu tombes en sommeil$(li)3e minute : tes subordonnés dorment aussi$(br2)$(l)Mourir pendant le Festival fait perdre toutes tes âmes !$() Mets-toi en sécurité avant."
+    }
+  ]
+}

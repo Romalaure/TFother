@@ -1,0 +1,10 @@
+{
+  "name": "Wiki MineColonies",
+  "subtitle": "Le guide de Bob",
+  "landing_text": "Salut, moi c'est $(l)Bob$() ! Tu veux fonder ta propre colonie ? Ce livre t'explique tout : fonder la colonie, construire les bâtiments, s'occuper des citoyens et comprendre les systèmes.$(br2)Commence par la catégorie $(l)Débuter$().",
+  "model": "patchouli:book_brown",
+  "dont_generate_book": true,
+  "use_resource_pack": true,
+  "show_progress": false,
+  "version": 1
+}

@@ -1,0 +1,6 @@
+{
+  "name": "Races",
+  "description": "Les races jouables au départ, leurs statistiques et leur première évolution.",
+  "icon": "minecraft:player_head",
+  "sortnum": 2
+}

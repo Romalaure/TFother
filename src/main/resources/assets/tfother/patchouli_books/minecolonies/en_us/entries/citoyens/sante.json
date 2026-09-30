@@ -1,0 +1,16 @@
+{
+  "name": "Hôpital et Cimetière",
+  "icon": "minecolonies:blockhuthospital",
+  "category": "tfother:citoyens",
+  "sortnum": 5,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Hôpital$()$(br)Le Soigneur guérit les malades (1 lit par niveau).$(br2)$(li)Grippe : carotte + pomme de terre$(li)Rougeole : pissenlit, algue, coquelicot$(li)Variole : fiole de miel + pomme dorée"
+    },
+    {
+      "type": "patchouli:text",
+      "text": "$(l)Cimetière$()$(br)Le Fossoyeur récupère les objets des citoyens morts et tente de les ressusciter (chance faible, augmentée par le Site Mystique et les totems)."
+    }
+  ]
+}

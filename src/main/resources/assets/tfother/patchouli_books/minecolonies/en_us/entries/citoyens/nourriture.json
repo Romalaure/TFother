@@ -1,0 +1,20 @@
+{
+  "name": "Nourriture",
+  "icon": "minecraft:bread",
+  "category": "tfother:citoyens",
+  "sortnum": 0,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "Chaque citoyen a une barre de $(l)saturation$(). Quand elle baisse, il va au Réfectoire. À 0, il arrête de travailler, ralentit et réclame à manger.$(br2)Un citoyen bien nourri guérit deux fois plus vite et progresse mieux."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Les citoyens exigent une nourriture de $(l)qualité$() selon le niveau de leur résidence. La nourriture vanilla est pénalisée : vise les plats MineColonies."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Chaque culture MineColonies pousse dans un type de biome (froid, tempéré, humide, sec). Certains plats demandent des échanges avec d'autres colonies."
+    }
+  ]
+}

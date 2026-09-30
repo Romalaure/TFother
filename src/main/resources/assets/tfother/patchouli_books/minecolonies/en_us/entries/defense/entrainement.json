@@ -1,0 +1,16 @@
+{
+  "name": "Entraînement",
+  "icon": "minecolonies:blockhutcombatacademy",
+  "category": "tfother:defense",
+  "sortnum": 2,
+  "pages": [
+    {
+      "type": "patchouli:text",
+      "text": "L'$(l)Académie de combat$() forme des chevaliers (épée + bouclier, sur des mannequins : citrouille sur une botte de foin) et le $(l)Stand de tir$() forme des archers (arc, sur des blocs Cible)."
+    },
+    {
+      "type": "patchouli:text",
+      "text": "Ils montent de niveau sans risquer de mourir. 1 élève par niveau du bâtiment. Les élèves ne défendent pas la colonie."
+    }
+  ]
+}
