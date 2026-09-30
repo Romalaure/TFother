@@ -1,0 +1,8 @@
+{
+  "entity.tfother.slime": "Slime",
+  "entity.tfother.bob": "Bob",
+  "item.tfother.slime_spawn_egg": "Slime NPC Spawn Egg",
+  "item.tfother.bob_spawn_egg": "Bob NPC Spawn Egg",
+  "message.tfother.slime.greet": "Hi! Here is the official Tensura wiki:",
+  "message.tfother.bob.greet": "Hello, I'm Bob! Want to found your colony? Everything is explained on the official MineColonies wiki:"
+}
