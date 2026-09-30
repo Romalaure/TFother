@@ -4,5 +4,20 @@
   "item.tfother.slime_spawn_egg": "Œuf d'apparition de PNJ Slime",
   "item.tfother.bob_spawn_egg": "Œuf d'apparition de PNJ Bob",
   "message.tfother.slime.greet": "Salut ! Tiens, voici tout ce que je sais sur ce monde.",
-  "message.tfother.bob.greet": "Bonjour, moi c'est Bob ! Tu veux fonder ta colonie ? Voici mon guide de MineColonies."
+  "message.tfother.bob.greet": "Bonjour, moi c'est Bob ! Tu veux fonder ta colonie ? Voici mon guide de MineColonies.",
+  "entity.tfother.tiplouf": "Tiplouf",
+  "item.tfother.tiplouf_spawn_egg": "Œuf d'apparition de PNJ Tiplouf",
+  "message.tfother.tiplouf.greet": "Plouf ! Moi c'est Tiplouf, je sais tout sur Tensura. Qu'est-ce que tu veux savoir ?",
+  "message.tfother.tiplouf.hint": "Écris tes questions dans le chat (seuls toi et Tiplouf les voyez). Dis « au revoir » ou éloigne-toi pour partir.",
+  "message.tfother.tiplouf.hint_voice": "Pose tes questions dans le chat ou à voix haute avec le chat vocal (seuls toi et Tiplouf les entendez). Dis « au revoir » ou éloigne-toi pour partir.",
+  "message.tfother.tiplouf.still_here": "Je t'écoute, vas-y !",
+  "message.tfother.tiplouf.you": "[Toi → Tiplouf] %s",
+  "message.tfother.tiplouf.you_voice": "[Toi (vocal) → Tiplouf] %s",
+  "message.tfother.tiplouf.thinking": "Tiplouf réfléchit...",
+  "message.tfother.tiplouf.busy": "Attends, je réfléchis encore à ta question précédente !",
+  "message.tfother.tiplouf.cooldown": "Doucement, mes petites nageoires ne suivent pas !",
+  "message.tfother.tiplouf.limit": "J'ai assez répondu pour aujourd'hui. Reviens demain !",
+  "message.tfother.tiplouf.error": "Brr, mon cerveau a gelé... Réessaie dans un instant.",
+  "message.tfother.tiplouf.not_configured": "Plouf... je ne peux pas encore parler. (L'admin du serveur doit mettre la clé API dans config/tfother-tiplouf.toml.)",
+  "message.tfother.tiplouf.bye": "À bientôt, plouf !"
 }

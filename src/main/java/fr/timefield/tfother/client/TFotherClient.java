@@ -15,5 +15,6 @@ public final class TFotherClient {
     public static void registerRenderers(EntityRenderersEvent.RegisterRenderers event) {
         event.registerEntityRenderer(TFother.SLIME.get(), SlimeNpcRenderer::new);
         event.registerEntityRenderer(TFother.BOB.get(), BobNpcRenderer::new);
+        event.registerEntityRenderer(TFother.TIPLOUF.get(), TiploufRenderer::new);
     }
 }

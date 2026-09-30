@@ -4,11 +4,11 @@ license = "All Rights Reserved"
 
 [[mods]]
 modId = "tfother"
-version = "1.1.0"
+version = "1.3.0"
 displayName = "TFother"
 authors = "Timefield"
 description = '''
-Divers ajouts Timefield. PNJ Slime (wiki Tensura) et PNJ Bob (wiki MineColonies) qui ouvrent un wiki intégré en jeu quand on leur parle.
+Divers ajouts Timefield. PNJ Slime (wiki Tensura) et PNJ Bob (wiki MineColonies) qui ouvrent un wiki intégré en jeu quand on leur parle, et Tiplouf, PNJ IA qui répond aux questions sur Tensura.
 '''
 
 [[dependencies.tfother]]
@@ -28,6 +28,13 @@ side = "BOTH"
 [[dependencies.tfother]]
 modId = "patchouli"
 type = "required"
+versionRange = "*"
+ordering = "NONE"
+side = "BOTH"
+
+[[dependencies.tfother]]
+modId = "voicechat"
+type = "optional"
 versionRange = "*"
 ordering = "NONE"
 side = "BOTH"
